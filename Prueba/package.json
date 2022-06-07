@@ -1,0 +1,16 @@
+{
+    "name": "VR_Project",
+    "version": "1.0.0",
+    "description": "Server to test VR_Project",
+    "main": "main.js",
+    "author": "Rubén Muñoz Beato",
+    "repository": "",
+    "license": "ISC",
+    "dependencies": {
+    "express": "*"
+    },
+    "scripts": {
+    "main": "node main.js"
+    }
+    }
+    
